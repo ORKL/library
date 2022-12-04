@@ -1,0 +1,91 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "$ref": "#/definitions/ORKLMetadataFile",
+    "definitions": {
+        "ORKLMetadataFile": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "sha1_hash": {
+                    "type": "string",
+                    "minLength": 40
+                },
+                "title": {
+                    "type": "string",
+                    "minLength": 10
+                },
+                "authors": {
+                    "type": "string",
+                    "minLength": 5
+                },
+                "pdf_creation_date": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "pdf_modification_date": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "publication_date": {
+                    "type": "string",
+                    "format": "date"
+                },
+                "file_names": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    },
+                    "minItems": 1
+                },
+                "file_size": {
+                    "type": "integer",
+                    "minimum": 124
+                },
+                "reference_urls": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "format": "uri",
+                        "qt-uri-protocols": [
+                            "https",
+                            "http"
+                        ],
+                        "qt-uri-extensions": [
+                            ".pdf"
+                        ]
+                    },
+                    "minItems": 1
+                },
+                "language": {
+                    "type": "string",
+                    "maxLength": 2,
+                    "minLength": 2
+                },
+                "cdn": {
+                    "type": "string",
+                    "format": "uri",
+                    "qt-uri-protocols": [
+                        "https",
+                        "http"
+                    ],
+                    "qt-uri-extensions": [
+                        ".pdf"
+                    ]
+                }
+            },
+            "required": [
+                "sha1_hash",
+                "authors",
+                "file_names",
+                "file_size",
+                "language",
+                "pdf_creation_date",
+                "pdf_modification_date",
+                "publication_date",
+                "reference_urls",
+                "title"
+            ],
+            "title": "ORKLMetadataFile"
+        }
+    }
+}
