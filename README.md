@@ -1,4 +1,13 @@
-# ORKL - Cyber Threat Intelligence Library
+# ORKL
+
+### The Community Driven Cyber Threat Intelligence Library
+
+---
+
+[![CodeQL](https://github.com/ORKL/library/workflows/CodeQL/badge.svg)](https://github.com/ORKL/library/actions?query=workflow%3ACodeQL)
+![GitHub Discussions](https://img.shields.io/github/discussions/ORKL/library)
+![Twitter Follow](https://img.shields.io/twitter/follow/orkleu?style=social)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/rhaist)
 
 Collection of original report and metadata files that are used by ORKL to
 complement the public library of cyber threat intelligence reports. This
