@@ -16,7 +16,7 @@
                 },
                 "authors": {
                     "type": "string",
-                    "minLength": 5
+                    "minLength": 4
                 },
                 "pdf_creation_date": {
                     "type": "string",
