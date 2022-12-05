@@ -71,6 +71,10 @@ library you need to:
 2. Edit the .yaml file
 3. Open a PR to add the file to the main repo
 
+The following video shows an example workflow:
+
+[![asciicast](https://asciinema.org/a/lJ9kpCtcmb52f5zQzazVuOyqV.svg)](https://asciinema.org/a/lJ9kpCtcmb52f5zQzazVuOyqV)
+
 ## Metadata yaml file
 
 the following table is a reference what every .yaml metadata file should contain:
