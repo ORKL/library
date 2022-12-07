@@ -3,8 +3,10 @@ package main
 import (
 	"errors"
 	"flag"
+	"fmt"
 	"os"
 	"path/filepath"
+	"strings"
 
 	"github.com/ORKL/library/olm/utils"
 	"github.com/rs/zerolog"
@@ -23,6 +25,7 @@ func main() {
 	recPath := flag.String("recursive", "", "path to directory with reports to import")
 	hashStr := flag.String("hash", "", "populate metadata yaml from ORKL API for sha1 hash")
 	uuidStr := flag.String("uuid", "", "populate metadata yaml from ORKL API for uuid")
+	workInt := flag.Int("work", 0, "get specified number work items from the API")
 	omBool := flag.Bool("overwrite-metadata", false, "overwrite yaml metadata files (caution)")
 	janitorBool := flag.Bool("janitor", false, "run janitor to perform corpus maintenance and cleanup tasks")
 	flag.Parse()
@@ -49,6 +52,22 @@ func main() {
 		err := handleUUID(*uuidStr, *corpPath)
 		if err != nil {
 			log.Error().Err(err).Msgf("error handling supplied uuid")
+		}
+	}
+
+	if *workInt > 0 {
+		items, err := getLibraryWork(*workInt)
+		if err != nil {
+			log.Error().Err(err).Msgf("error getting work from the API")
+			return
+		}
+		for _, item := range items {
+			err = handleUUID(item.ID, *corpPath)
+			if err != nil {
+				log.Error().Err(err).Msgf("error handling supplied uuid")
+			}
+			niceReason := strings.Join(item.Reasons, " | ")
+			fmt.Printf("Got %v to fix for you [%v]\n", item.ID, niceReason)
 		}
 	}
 

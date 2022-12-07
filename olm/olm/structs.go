@@ -58,3 +58,20 @@ type ReportHashResponse struct {
 	Message string `json:"message"`
 	Status  string `json:"status"`
 }
+
+type WorkItemsResponse struct {
+	Data    Data   `json:"data"`
+	Message string `json:"message"`
+	Status  string `json:"status"`
+}
+
+type Data struct {
+	WorkItems    []WorkItem `json:"work_items"`
+	TotalEntries int64      `json:"total_entries"`
+	TotalTodos   int64      `json:"total_todos"`
+}
+
+type WorkItem struct {
+	ID      string   `json:"id"`
+	Reasons []string `json:"reasons"`
+}

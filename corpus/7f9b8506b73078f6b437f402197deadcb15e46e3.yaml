@@ -1,0 +1,14 @@
+sha1_hash: 7f9b8506b73078f6b437f402197deadcb15e46e3
+title: "Blowing Cobalt Strike Out of the Water With Memory Analysis"
+authors: "Unit 42, Dominik Reichel, Esmid Idrizovic, Bob Jung"
+pdf_creation_date: 2022-12-07T01:10:20Z
+pdf_modification_date: 2022-12-07T01:10:20Z
+publication_date: "2022-12-02"
+file_names:
+  - Blowing Cobalt Strike Out of the Water With Memory Analysis
+file_size: 1675324
+reference_urls:
+  - https://unit42.paloaltonetworks.com/cobalt-strike-memory-analysis/
+  - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/raw/master/2022/2022.12.02.Cobalt_Strike_Out_of_the_Water/Blowing%20Cobalt%20Strike%20Out%20of%20the%20Water%20With%20Memory%20Analysis.pdf
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/7f9b8506b73078f6b437f402197deadcb15e46e3.pdf

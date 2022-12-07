@@ -34,6 +34,34 @@ func inCDN(sha1 string) bool {
 	return res.StatusCode == 200
 }
 
+func getLibraryWork(number int) ([]WorkItem, error) {
+	var wir WorkItemsResponse
+	var wis []WorkItem
+
+	baseURL := "https://orkl.eu/api/v1/library/work/entries?limit=" + fmt.Sprintf("%d", number)
+
+	resp, err := http.Get(baseURL)
+	if err != nil {
+		return wis, err
+	}
+	//We Read the response body on the line below.
+	body, err := io.ReadAll(resp.Body)
+	if err != nil {
+		return wis, err
+	}
+
+	err = json.Unmarshal(body, &wir)
+	if err != nil {
+		return wis, err
+	}
+
+	if wir.Status == "error" {
+		return wis, fmt.Errorf("supplied hash led to an API error: %v", wir.Message)
+	}
+
+	return wir.Data.WorkItems, nil
+}
+
 func getLibraryEntryHash(sha1 string) (Report, error) {
 	var rhr ReportHashResponse
 	var rep Report
