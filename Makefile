@@ -8,5 +8,5 @@ install:
 	go install github.com/google/yamlfmt/cmd/yamlfmt@latest
 
 validate: $(CORPUS_DIR)/*.yaml
-	yamlfmt $(CORPUS_DIR)
+	yamlfmt $(CORPUS_DIR)/*.yaml
 	yajsv -q -s schema.json corpus/*.yaml

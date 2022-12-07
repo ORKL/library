@@ -1,6 +1,6 @@
 sha1_hash: 22c29ddb65123590d0f8601a4f05626c61dd8753
-title: "BfV Cyber-Brief Nr. 01/2017"
-authors: "Bundesamt für Verfassungsschutz"
+title: BfV Cyber-Brief Nr. 01/2017
+authors: Bundesamt für Verfassungsschutz
 pdf_creation_date: 2017-03-22T10:25:45Z
 pdf_modification_date: 2017-03-22T10:26:16Z
 publication_date: "2017-03-22"
@@ -9,4 +9,5 @@ file_names:
 file_size: 294171
 reference_urls:
   - https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/cyberabwehr/2017-01-bfv-cyber-brief.pdf?__blob=publicationFile&v=5
-language: "DE"
+language: DE
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/22c29ddb65123590d0f8601a4f05626c61dd8753.pdf

@@ -5,9 +5,9 @@ pdf_creation_date: 2022-10-20T12:43:12Z
 pdf_modification_date: 2022-10-20T12:43:17Z
 publication_date: "2022-10-20"
 file_names:
-- eset_threat_report_t12021.pdf
+  - eset_threat_report_t12021.pdf
 file_size: 5926270
 reference_urls:
-- https://www.welivesecurity.com/wp-content/uploads/2021/05/eset_threat_report_t12021.pdf
+  - https://www.welivesecurity.com/wp-content/uploads/2021/05/eset_threat_report_t12021.pdf
 language: EN
 cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/b3085a1e6f2641e6313784b9f5e860e203bae706.pdf
