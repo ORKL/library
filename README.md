@@ -1,4 +1,4 @@
-# ORKL
+# 📚 ORKL
 
 ### The Community Driven Cyber Threat Intelligence Library
 
@@ -23,7 +23,7 @@ The following files can be found in the directory:
 * <$REPORT_HASH>.yaml -> Metadata files that contain a `cdn:` key with the uri of the
     report in the CDN
 
-## Prerequisites
+## ⚙️ Prerequisites
 
 the following requirements need to be installed to use the tool chain:
 
@@ -39,7 +39,7 @@ apt install -y libimage-exiftool-perl golang make
 
 **Note:** make sure `$GOPATH/bin` is added to `$PATH`
 
-## Add Reports
+## ➕ Add Reports
 
 1. Fork this repository and clone the fork to your workspace
 
@@ -62,7 +62,7 @@ apt install -y libimage-exiftool-perl golang make
     TLP level of the reports looks good your PR will be approved after
     verification.
 
-## Fix existing entry in ORKL library
+## 🧹 Fix existing entry in ORKL library
 
 If you want to provided better metadata to an entry that is already in the ORKL
 library you need to:
@@ -75,7 +75,7 @@ The following video shows an example workflow:
 
 [![asciicast](https://asciinema.org/a/lJ9kpCtcmb52f5zQzazVuOyqV.svg)](https://asciinema.org/a/lJ9kpCtcmb52f5zQzazVuOyqV)
 
-## Metadata yaml file
+## 📝 Metadata yaml file
 
 the following table is a reference what every .yaml metadata file should contain:
 
