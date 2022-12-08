@@ -67,7 +67,7 @@ apt install -y libimage-exiftool-perl golang make
 If you want to provided better metadata to an entry that is already in the ORKL
 library you need to:
 
-1. Bootstrap the .yaml file from the api with `olm -hash <$REPORT_HASH>` or `olm -uuid <$REPORT_UUID>`
+1. Either bootstrap the .yaml file from the api with `olm -hash <$REPORT_HASH>` or `olm -uuid <$REPORT_UUID>` or request a number of entries that need fixing with `olm -work <$NUMBER>`
 2. Edit the .yaml file
 3. Open a PR to add the file to the main repo
 
