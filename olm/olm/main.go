@@ -90,7 +90,7 @@ func main() {
 				return nil
 			}
 
-			if !info.IsDir() && filepath.Ext(path) == ".pdf" {
+			if !info.IsDir() && strings.ToLower(filepath.Ext(path)) == ".pdf" {
 
 				log.Debug().Msgf("processing PDF file: %v", path)
 
@@ -98,9 +98,11 @@ func main() {
 				if err != nil {
 					log.Error().Err(err).Msgf("error processing report: %v", path)
 				}
-				err = handleReport(report, *repPath, *corpPath)
-				if err != nil {
-					log.Error().Err(err)
+
+				handleErr := handleReport(report, path, *corpPath)
+				if handleErr != nil {
+					log.Error().Err(handleErr)
+					return handleErr
 				}
 			}
 			return nil

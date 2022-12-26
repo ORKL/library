@@ -91,8 +91,11 @@ func handleReport(report Report, original string, corpusPath string) error {
 	pdfExists := utils.CheckFileExists(pdfPath)
 	yamlExists := utils.CheckFileExists(yamlPath)
 
+	log.Debug().Msgf("pdf exists: %v | yaml exists: %v | CDN: %v", pdfExists, yamlExists, report.CDN)
+
 	if !pdfExists && report.CDN == "" {
 		// Open original file
+		log.Info().Msg(original)
 		original, err := os.Open(original)
 		if err != nil {
 			return err
@@ -105,10 +108,12 @@ func handleReport(report Report, original string, corpusPath string) error {
 		}
 		defer new.Close()
 
-		_, err = io.Copy(new, original)
+		written, err := io.Copy(new, original)
 		if err != nil {
 			return err
 		}
+
+		log.Debug().Msgf("created %s - written %d", pdfPath, written)
 	}
 
 	if !yamlExists || OverWriteMetadata {

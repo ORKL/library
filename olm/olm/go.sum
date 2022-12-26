@@ -1,5 +1,5 @@
-github.com/ORKL/library/olm/utils v0.0.0-20221204174011-286d7ea3a398 h1:FYguZ+A2DKyXIpioKQcOIPGAz/RIOOiF2mWL0of7jug=
-github.com/ORKL/library/olm/utils v0.0.0-20221204174011-286d7ea3a398/go.mod h1:RBNO3j7+AsxqwgBpxfEYttWANXCI4Tr7nbND81IyQVk=
+github.com/ORKL/library/olm/utils v0.0.0-20221208161819-4b9e67624543 h1:VC4cdj6zawbHb0XhxRzcvcV8H2jhepaKPsAUvs90zWQ=
+github.com/ORKL/library/olm/utils v0.0.0-20221208161819-4b9e67624543/go.mod h1:RBNO3j7+AsxqwgBpxfEYttWANXCI4Tr7nbND81IyQVk=
 github.com/barasher/go-exiftool v1.8.0 h1:u8bEi1mhLtpVC5aG/ZJlRS/r+SkK+rcgbZQwcKUb424=
 github.com/barasher/go-exiftool v1.8.0/go.mod h1:F9s/a3uHSM8YniVfwF+sbQUtP8Gmh9nyzigNF+8vsWo=
 github.com/coreos/go-systemd/v22 v22.3.3-0.20220203105225-a9a7ef127534/go.mod h1:Y58oyj3AT4RCenI/lSvhwexgC+NSVTIJ3seZv2GcEnc=
@@ -24,8 +24,8 @@ github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+
 github.com/stretchr/testify v1.3.0 h1:TivCn/peBQ7UY8ooIcPgZFpTNSz0Q2U6UrFlUfqbe0Q=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e/go.mod h1:XRhObCWvk6IyKnWLug+ECip1KBveYUHfp+8e9klMJ9c=
-golang.org/x/net v0.2.0 h1:sZfSu1wtKLGlWI4ZZayP0ck9Y73K1ynO6gqzTdBVdPU=
-golang.org/x/net v0.2.0/go.mod h1:KqCZLdyyvdV855qA2rE3GC2aiw5xGR5TEjj8smXukLY=
+golang.org/x/net v0.4.0 h1:Q5QPcMlvfxFTAPV0+07Xz/MpK9NTXu2VDUuy0FeMfaU=
+golang.org/x/net v0.4.0/go.mod h1:MBQ8lrhLObU/6UmLb4fmbmk5OcyYmqtbGd/9yIeKjEE=
 golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/sys v0.0.0-20210927094055-39ccf1dd6fa6/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
