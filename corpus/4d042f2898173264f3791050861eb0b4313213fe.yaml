@@ -1,0 +1,14 @@
+sha1_hash: 4d042f2898173264f3791050861eb0b4313213fe
+title: "Internet Explorer 0-day exploited by North Korean actor APT37"
+authors: "Clement Lecigne, Benoit Sevens (Google Threat Analysis Group)"
+pdf_creation_date: 2022-12-14T03:17:40Z
+pdf_modification_date: 2022-12-14T03:17:40Z
+publication_date: "2022-12-07"
+file_names:
+  - Internet Explorer 0-day exploited by North Korean actor APT37
+file_size: 355043
+reference_urls:
+  - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/raw/master/2022/2022.12.07.APT37_0Day/Internet%20Explorer%200-day%20exploited%20by%20North%20Korean%20actor%20APT37.pdf
+  - https://blog.google/threat-analysis-group/internet-explorer-0-day-exploited-by-north-korean-actor-apt37/
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/4d042f2898173264f3791050861eb0b4313213fe.pdf
