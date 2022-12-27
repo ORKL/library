@@ -1,0 +1,13 @@
+sha1_hash: 1e273d28a5c80c4f5a29b15550e519db59f81c38
+title: "Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite"
+authors: "CISA"
+pdf_creation_date: 2022-11-10T13:55:34Z
+pdf_modification_date: 2022-11-10T13:55:36Z
+publication_date: "2022-08-16"
+file_names:
+  - aa22-228a-threat-actors-exploiting-multiple-cves-against-zimbra.pdf
+file_size: 489053
+reference_urls:
+  - https://www.cisa.gov/uscert/ncas/alerts/aa22-228a
+  - https://www.cisa.gov/uscert/sites/default/files/publications/aa22-228a-threat-actors-exploiting-multiple-cves-against-zimbra.pdf
+language: "EN"

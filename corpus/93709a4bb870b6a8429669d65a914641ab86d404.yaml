@@ -1,0 +1,13 @@
+sha1_hash: 93709a4bb870b6a8429669d65a914641ab86d404
+title: "2021 Top Routinely Exploited Vulnerabilities"
+authors: "CISA, NSA, FBI"
+pdf_creation_date: 2022-04-27T10:16:57Z
+pdf_modification_date: 2022-04-28T04:37:14Z
+publication_date: "2022-04-27"
+file_names:
+  - AA22-117A_Joint_CSA_2021_Top_Routinely_Exploited_Vulnerabilities_Final.pdf
+file_size: 805559
+reference_urls:
+  - https://www.cisa.gov/uscert/ncas/alerts/aa22-117a
+  - https://www.cisa.gov/uscert/sites/default/files/publications/AA22-117A_Joint_CSA_2021_Top_Routinely_Exploited_Vulnerabilities_Final.pdf
+language: "EN"

@@ -1,0 +1,13 @@
+sha1_hash: e3e10f2529176273a4f96a45b5dd7d0aada710d0
+title: "Conti Ransomware"
+authors: "CISA, FBI, NSA, USSS"
+pdf_creation_date: 2022-03-09T13:46:55Z
+pdf_modification_date: 2022-03-10T05:05:29Z
+publication_date: "2022-09-22"
+file_names:
+  - AA21-265A-Conti_Ransomware_TLP_WHITE.pdf
+file_size: 1254044
+reference_urls:
+  - https://www.cisa.gov/uscert/ncas/alerts/aa21-265a
+  - https://www.cisa.gov/uscert/sites/default/files/publications/AA21-265A-Conti_Ransomware_TLP_WHITE.pdf
+language: "EN"
