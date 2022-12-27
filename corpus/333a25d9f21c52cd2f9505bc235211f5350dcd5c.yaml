@@ -1,6 +1,6 @@
 sha1_hash: 333a25d9f21c52cd2f9505bc235211f5350dcd5c
-title: "Mitigate the GRUB2 BootHole Vulnerability"
-authors: "NSA"
+title: Mitigate the GRUB2 BootHole Vulnerability
+authors: NSA
 pdf_creation_date: 2020-07-30T16:41:30Z
 pdf_modification_date: 2020-07-30T16:41:30Z
 publication_date: "2020-07-30"
@@ -9,4 +9,5 @@ file_names:
 file_size: 216186
 reference_urls:
   - https://media.defense.gov/2020/Jul/30/2002467902/-1/-1/0/CSA_MITIGATE_THE_GRUB2_BOOTHOLE_VULNERABILITY_20200730_NSA_GOV%20-%20COPY.PDF
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/333a25d9f21c52cd2f9505bc235211f5350dcd5c.pdf

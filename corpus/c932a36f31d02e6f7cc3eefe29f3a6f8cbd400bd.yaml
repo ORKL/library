@@ -1,6 +1,6 @@
 sha1_hash: c932a36f31d02e6f7cc3eefe29f3a6f8cbd400bd
-title: "Announcing the Commercial National Security Algorithm Suite 2.0"
-authors: "NSA"
+title: Announcing the Commercial National Security Algorithm Suite 2.0
+authors: NSA
 pdf_creation_date: 2022-09-07T14:23:21Z
 pdf_modification_date: 2022-09-07T14:23:21Z
 publication_date: "2022-09-07"
@@ -9,4 +9,5 @@ file_names:
 file_size: 376129
 reference_urls:
   - https://media.defense.gov/2022/Sep/07/2003071834/-1/-1/0/CSA_CNSA_2.0_ALGORITHMS_.PDF
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/c932a36f31d02e6f7cc3eefe29f3a6f8cbd400bd.pdf

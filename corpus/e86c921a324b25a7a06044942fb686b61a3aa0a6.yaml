@@ -1,6 +1,6 @@
 sha1_hash: e86c921a324b25a7a06044942fb686b61a3aa0a6
-title: "APT Cyber Tools Targeting ICS/SCADA Devices"
-authors: "DOE, CISA, NSA, FBI"
+title: APT Cyber Tools Targeting ICS/SCADA Devices
+authors: DOE, CISA, NSA, FBI
 pdf_creation_date: 2022-05-31T12:46:39Z
 pdf_modification_date: 2022-05-31T12:46:39Z
 publication_date: "2022-04-13"
@@ -9,4 +9,5 @@ file_names:
 file_size: 641976
 reference_urls:
   - https://www.cisa.gov/uscert/sites/default/files/publications/AA22-103A_APT_Cyber_Tools_Targeting_ICS_SCADA_Devices.pdf
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/e86c921a324b25a7a06044942fb686b61a3aa0a6.pdf

@@ -1,6 +1,6 @@
 sha1_hash: 6b79f4b71b9ded49453c3d9a0a7d8b37f30136e1
-title: "People's Republic of China State-Sponsored Cyber Actors Exploit Network Providers and Devices"
-authors: "NSA, CISA, FBI"
+title: People's Republic of China State-Sponsored Cyber Actors Exploit Network Providers and Devices
+authors: NSA, CISA, FBI
 pdf_creation_date: 2022-06-07T10:10:59Z
 pdf_modification_date: 2022-06-07T10:10:59Z
 publication_date: "2022-06-07"
@@ -10,4 +10,5 @@ file_size: 576408
 reference_urls:
   - https://www.cisa.gov/uscert/ncas/alerts/aa22-158a
   - https://media.defense.gov/2022/Jun/07/2003013376/-1/-1/0/CSA_PRC_SPONSORED_CYBER_ACTORS_EXPLOIT_NETWORK_PROVIDERS_DEVICES_TLPWHITE.PDF
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/6b79f4b71b9ded49453c3d9a0a7d8b37f30136e1.pdf

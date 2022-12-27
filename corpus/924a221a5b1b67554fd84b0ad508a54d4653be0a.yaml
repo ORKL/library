@@ -1,6 +1,6 @@
 sha1_hash: 924a221a5b1b67554fd84b0ad508a54d4653be0a
-title: "Understanding and Mitigating Russian State-Sponsored Cyber Threats to U.S. Critical Infrastructure"
-authors: "CISA, NSA, FBI"
+title: Understanding and Mitigating Russian State-Sponsored Cyber Threats to U.S. Critical Infrastructure
+authors: CISA, NSA, FBI
 pdf_creation_date: 2022-01-11T08:38:12Z
 pdf_modification_date: 2022-01-11T08:38:12Z
 publication_date: "2022-01-11"
@@ -9,4 +9,5 @@ file_names:
 file_size: 990745
 reference_urls:
   - https://media.defense.gov/2022/Jan/11/2002919950/-1/-1/1/JOINT_CSA_UNDERSTANDING_MITIGATING_RUSSIAN_CYBER_THREATS_TO_US_CRITICAL_INFRASTRUCTURE_20220111.PDF
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/924a221a5b1b67554fd84b0ad508a54d4653be0a.pdf

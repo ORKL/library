@@ -1,6 +1,6 @@
 sha1_hash: 8d00c5adbad82a765d30c0fcab39e3194271cf92
-title: "Stop Malicious Cyber Activity Against Connected Operational Technology"
-authors: "NSA"
+title: Stop Malicious Cyber Activity Against Connected Operational Technology
+authors: NSA
 pdf_creation_date: 2021-04-28T12:04:08Z
 pdf_modification_date: 2021-04-28T12:04:08Z
 publication_date: "2021-04-28"
@@ -9,4 +9,5 @@ file_names:
 file_size: 210964
 reference_urls:
   - https://media.defense.gov/2021/Apr/29/2002630479/-1/-1/1/CSA_STOP-MCA-AGAINST-OT_UOO13672321.PDF
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/8d00c5adbad82a765d30c0fcab39e3194271cf92.pdf

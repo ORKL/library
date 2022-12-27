@@ -1,6 +1,6 @@
 sha1_hash: 295e962e2fbcc92775817b20bd586f430abd9cfb
-title: "Russian State-Sponsored and Criminal Cyber Threats to Critical Infrastructure"
-authors: "CISA, NSA, FBI"
+title: Russian State-Sponsored and Criminal Cyber Threats to Critical Infrastructure
+authors: CISA, NSA, FBI
 pdf_creation_date: 2022-04-20T11:47:08Z
 pdf_modification_date: 2022-04-20T11:47:08Z
 publication_date: "2022-04-20"
@@ -9,4 +9,5 @@ file_names:
 file_size: 1067780
 reference_urls:
   - https://media.defense.gov/2022/Apr/20/2002980529/-1/-1/1/JOINT_CSA_RUSSIAN_STATE-SPONSORED_AND_CRIMINAL_CYBER_THREATS_TO_CRITICAL_INFRASTRUCTURE_20220420.PDF
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/295e962e2fbcc92775817b20bd586f430abd9cfb.pdf

@@ -1,6 +1,6 @@
 sha1_hash: e452777b6f37ccbdee15c2636984e2d5c7159ffe
-title: "Iranian Islamic Revolutionary Guard Corps-Affiliated Cyber Actors Exploiting Vulnerabilities for Data Extortion and Disk Encryption for Ransom Operations"
-authors: "CISA, NSA, FBI, USCC, Treasury, ACSC, CCCS, NCSC-UK"
+title: Iranian Islamic Revolutionary Guard Corps-Affiliated Cyber Actors Exploiting Vulnerabilities for Data Extortion and Disk Encryption for Ransom Operations
+authors: CISA, NSA, FBI, USCC, Treasury, ACSC, CCCS, NCSC-UK
 pdf_creation_date: 2022-09-12T16:06:41Z
 pdf_modification_date: 2022-09-12T16:06:54Z
 publication_date: "2022-09-14"
@@ -9,4 +9,5 @@ file_names:
 file_size: 815060
 reference_urls:
   - https://media.defense.gov/2022/Sep/14/2003076379/-1/-1/0/CSA_IRGC.PDF
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/e452777b6f37ccbdee15c2636984e2d5c7159ffe.pdf

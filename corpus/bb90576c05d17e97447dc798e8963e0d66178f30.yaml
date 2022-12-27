@@ -1,6 +1,6 @@
 sha1_hash: bb90576c05d17e97447dc798e8963e0d66178f30
-title: "BlackMatter Ransomware"
-authors: "CISA, NSA, FBI"
+title: BlackMatter Ransomware
+authors: CISA, NSA, FBI
 pdf_creation_date: 2021-10-18T14:49:54Z
 pdf_modification_date: 2021-10-18T14:49:54Z
 publication_date: "2021-10-18"
@@ -9,4 +9,5 @@ file_names:
 file_size: 919870
 reference_urls:
   - https://media.defense.gov/2021/Oct/18/2002875430/-1/-1/0/CSA_BLACKMATTER_RANSOMWARE_211018.PDF
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/bb90576c05d17e97447dc798e8963e0d66178f30.pdf

@@ -1,6 +1,6 @@
 sha1_hash: 69271b7ca4034696392f4b25c702b3f608320d63
-title: "Weak Security Controls and Practices Routinely Exploited for Initial Access"
-authors: "CISA, FBI, NSA"
+title: Weak Security Controls and Practices Routinely Exploited for Initial Access
+authors: CISA, FBI, NSA
 pdf_creation_date: 2022-05-13T11:47:47Z
 pdf_modification_date: 2022-05-13T11:47:47Z
 publication_date: "2022-05-17"
@@ -9,4 +9,5 @@ file_names:
 file_size: 635725
 reference_urls:
   - https://media.defense.gov/2022/May/17/2002998718/-1/-1/0/CSA_WEAK_SECURITY_CONTROLS_PRACTICES_EXPLOITED_FOR_INITIAL_ACCESS.PDF
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/69271b7ca4034696392f4b25c702b3f608320d63.pdf

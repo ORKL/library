@@ -1,6 +1,6 @@
 sha1_hash: e6a339d05042725210b2f31116c81864af739c4f
-title: "2021 Trends Show Increased Globalized Threat of Ransomware"
-authors: "FBI, CISA, NSA, ACSC, NCSC-UK"
+title: 2021 Trends Show Increased Globalized Threat of Ransomware
+authors: FBI, CISA, NSA, ACSC, NCSC-UK
 pdf_creation_date: 2022-02-08T13:56:42Z
 pdf_modification_date: 2022-02-08T13:56:42Z
 publication_date: "2022-02-09"
@@ -9,4 +9,5 @@ file_names:
 file_size: 707026
 reference_urls:
   - https://media.defense.gov/2022/Feb/09/2002935687/-1/-1/0/2021_TRENDS_SHOW_INCREASED_GLOBALIZED_THREAT_OF_RANSOMWARE_20220209.PDF
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/e6a339d05042725210b2f31116c81864af739c4f.pdf

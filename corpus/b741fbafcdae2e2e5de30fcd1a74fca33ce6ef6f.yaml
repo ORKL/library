@@ -1,6 +1,6 @@
 sha1_hash: b741fbafcdae2e2e5de30fcd1a74fca33ce6ef6f
-title: "New Sandworm malware Cyclops Blink replaces VPNFilter"
-authors: "NCSC-UK, CISA, FBI, NSA"
+title: New Sandworm malware Cyclops Blink replaces VPNFilter
+authors: NCSC-UK, CISA, FBI, NSA
 pdf_creation_date: 2022-02-23T11:57:17Z
 pdf_modification_date: 2022-02-23T09:46:44Z
 publication_date: "2022-02-23"
@@ -9,4 +9,5 @@ file_names:
 file_size: 401571
 reference_urls:
   - https://media.defense.gov/2022/Feb/23/2002943421/-1/-1/0/CSA_NEW_SANDWORM_MALWARE_CYCLOPS_BLINK_REPLACES_VPNFILTER_20220223.PDF
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/b741fbafcdae2e2e5de30fcd1a74fca33ce6ef6f.pdf

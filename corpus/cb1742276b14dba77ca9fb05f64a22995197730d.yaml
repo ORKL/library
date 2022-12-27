@@ -1,6 +1,6 @@
 sha1_hash: cb1742276b14dba77ca9fb05f64a22995197730d
-title: "Chinese State-Sponsored Cyber Operations: Observed TTPs"
-authors: "NSA, CISA, FBI"
+title: 'Chinese State-Sponsored Cyber Operations: Observed TTPs'
+authors: NSA, CISA, FBI
 pdf_creation_date: 2021-07-19T06:27:58Z
 pdf_modification_date: 2021-07-19T06:27:58Z
 publication_date: "2021-07-19"
@@ -9,4 +9,5 @@ file_names:
 file_size: 1392391
 reference_urls:
   - https://media.defense.gov/2021/Jul/19/2002805003/-1/-1/0/CSA_CHINESE_STATE-SPONSORED_CYBER_TTPS.PDF
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/cb1742276b14dba77ca9fb05f64a22995197730d.pdf

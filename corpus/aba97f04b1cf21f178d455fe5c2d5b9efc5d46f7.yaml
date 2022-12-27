@@ -1,6 +1,6 @@
 sha1_hash: aba97f04b1cf21f178d455fe5c2d5b9efc5d46f7
-title: "Ongoing Cyber Threats to U.S. Water and Wastewater Systems"
-authors: "CISA, NSA, FBI, EPA"
+title: Ongoing Cyber Threats to U.S. Water and Wastewater Systems
+authors: CISA, NSA, FBI, EPA
 pdf_creation_date: 2021-10-14T12:11:06Z
 pdf_modification_date: 2021-10-14T12:11:37Z
 publication_date: "2021-10-14"
@@ -9,4 +9,5 @@ file_names:
 file_size: 956827
 reference_urls:
   - https://media.defense.gov/2021/Oct/14/2002873650/-1/-1/0/CSA_ONGOING_CYBER_THREATS_TO_U.S._WATER_AND_WASTEWATER_SYSTEMS_20211014.PDF
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/aba97f04b1cf21f178d455fe5c2d5b9efc5d46f7.pdf
