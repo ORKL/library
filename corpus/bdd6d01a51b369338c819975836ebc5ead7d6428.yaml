@@ -1,6 +1,6 @@
 sha1_hash: bdd6d01a51b369338c819975836ebc5ead7d6428
-title: "Cyber Threats to Mobile Phones"
-authors: "Paul Ruggiero, Jon Foote, US-CERT"
+title: Cyber Threats to Mobile Phones
+authors: Paul Ruggiero, Jon Foote, US-CERT
 pdf_creation_date: 2011-08-01T10:20:18Z
 pdf_modification_date: 2013-03-06T15:53:12Z
 publication_date: "2012-06-22"
@@ -10,4 +10,5 @@ file_size: 71526
 reference_urls:
   - https://www.cisa.gov/uscert/security-publications/cyber-threats-mobile-phones
   - https://www.cisa.gov/uscert/sites/default/files/publications/cyber_threats_to_mobile_phones.pdf
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/bdd6d01a51b369338c819975836ebc5ead7d6428.pdf

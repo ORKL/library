@@ -3,7 +3,7 @@ module github.com/ORKL/library/olm/olm
 go 1.19
 
 require (
-	github.com/ORKL/library/olm/utils v0.0.0-20221208161819-4b9e67624543
+	github.com/ORKL/library/olm/utils v0.0.0-20221227105934-310077432391
 	github.com/rs/zerolog v1.28.0
 	gopkg.in/yaml.v2 v2.4.0
 )

@@ -1,6 +1,6 @@
 sha1_hash: da0f17ba3ad72e0de329434ddf87f89c854ec376
-title: "Weak Security Controls and Practices Routinely Exploited for Initial Access"
-authors: "CISA, FBI, NSA"
+title: Weak Security Controls and Practices Routinely Exploited for Initial Access
+authors: CISA, FBI, NSA
 pdf_creation_date: 2022-05-17T08:29:18Z
 pdf_modification_date: 2022-05-17T08:29:18Z
 publication_date: "2022-05-17"
@@ -10,4 +10,5 @@ file_size: 440622
 reference_urls:
   - https://www.cisa.gov/uscert/ncas/alerts/aa22-137a
   - https://www.cisa.gov/uscert/sites/default/files/publications/AA22-137A-Weak_Security_Controls_and_Practices_Routinely_Exploited_for_Initial_Access.pdf
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/da0f17ba3ad72e0de329434ddf87f89c854ec376.pdf

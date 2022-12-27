@@ -1,6 +1,6 @@
 sha1_hash: 26c3fe514f17c096a7fd6a86319451c20a17aecf
-title: "Protecting Against Cyber Threats to Managed Service Providers and their Customers"
-authors: "CISA, NSA, FBI"
+title: Protecting Against Cyber Threats to Managed Service Providers and their Customers
+authors: CISA, NSA, FBI
 pdf_creation_date: 2022-05-11T13:16:41Z
 pdf_modification_date: 2022-05-11T13:40:03Z
 publication_date: "2022-05-11"
@@ -10,4 +10,5 @@ file_size: 705589
 reference_urls:
   - https://www.cisa.gov/uscert/ncas/alerts/aa22-131a
   - https://www.cisa.gov/uscert/sites/default/files/publications/AA22-131A_Protecting_Against_Cyber_Threats_to_MSPs_and_their_Customers.pdf
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/26c3fe514f17c096a7fd6a86319451c20a17aecf.pdf

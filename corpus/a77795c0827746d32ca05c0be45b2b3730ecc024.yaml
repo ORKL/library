@@ -1,6 +1,6 @@
 sha1_hash: a77795c0827746d32ca05c0be45b2b3730ecc024
-title: "Impacket and Exfiltration Tool Used to Steal Sensitive Information from Defense Industrial Base Organization"
-authors: "CISA, FBI, NSA"
+title: Impacket and Exfiltration Tool Used to Steal Sensitive Information from Defense Industrial Base Organization
+authors: CISA, FBI, NSA
 pdf_creation_date: 2022-10-04T15:42:18Z
 pdf_modification_date: 2022-10-04T15:42:28Z
 publication_date: "2022-10-04"
@@ -10,4 +10,5 @@ file_size: 708678
 reference_urls:
   - https://www.cisa.gov/uscert/ncas/alerts/aa22-277a
   - https://www.cisa.gov/uscert/sites/default/files/publications/aa22-277a-impacket-and-exfiltration-tool-used-to-steal-sensitive-information-from-defense-industrial-base-organization.pdf
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/a77795c0827746d32ca05c0be45b2b3730ecc024.pdf

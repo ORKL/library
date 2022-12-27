@@ -1,6 +1,6 @@
 sha1_hash: 00a66464451d8fe769b4b3285d01702c0ba8607d
-title: "Threat Actors Exploiting F5 BIG-IP CVE-2022-1388"
-authors: "CISA, MS-ISAC"
+title: Threat Actors Exploiting F5 BIG-IP CVE-2022-1388
+authors: CISA, MS-ISAC
 pdf_creation_date: 2022-05-17T18:42:00Z
 pdf_modification_date: 2022-05-17T18:47:28Z
 publication_date: "2022-05-18"
@@ -10,4 +10,5 @@ file_size: 513013
 reference_urls:
   - https://www.cisa.gov/uscert/ncas/alerts/aa22-138a
   - https://www.cisa.gov/uscert/sites/default/files/publications/AA22-138A-Threat_Actors_Exploiting_F5_BIG-IP_CVE-2022-1388_F5.pdf
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/00a66464451d8fe769b4b3285d01702c0ba8607d.pdf

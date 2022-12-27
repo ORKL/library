@@ -1,6 +1,6 @@
 sha1_hash: 8b02b2fce5b3792f14fa1f15b7d83db2f39c9bea
-title: "#StopRansomware: Cuba Ransomware"
-authors: "CISA, FBI"
+title: '#StopRansomware: Cuba Ransomware'
+authors: CISA, FBI
 pdf_creation_date: 2022-12-13T13:51:08Z
 pdf_modification_date: 2022-12-13T13:51:49Z
 publication_date: "2022-12-01"
@@ -10,4 +10,5 @@ file_size: 687632
 reference_urls:
   - https://www.cisa.gov/uscert/ncas/alerts/aa22-335a
   - https://www.cisa.gov/uscert/sites/default/files/publications/aa22-335a-stopransomware-cuba-ransomware.pdf
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/8b02b2fce5b3792f14fa1f15b7d83db2f39c9bea.pdf

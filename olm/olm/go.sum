@@ -1,5 +1,5 @@
-github.com/ORKL/library/olm/utils v0.0.0-20221208161819-4b9e67624543 h1:VC4cdj6zawbHb0XhxRzcvcV8H2jhepaKPsAUvs90zWQ=
-github.com/ORKL/library/olm/utils v0.0.0-20221208161819-4b9e67624543/go.mod h1:RBNO3j7+AsxqwgBpxfEYttWANXCI4Tr7nbND81IyQVk=
+github.com/ORKL/library/olm/utils v0.0.0-20221227105934-310077432391 h1:u5QX0oTD9sY+7pmalp99FYPJQkM+axhWpcuM/m3/Wbw=
+github.com/ORKL/library/olm/utils v0.0.0-20221227105934-310077432391/go.mod h1:goyy7Dd4RND7GxUms+dKKQV8yJGBs0zSCP+f+4WiQy8=
 github.com/barasher/go-exiftool v1.8.0 h1:u8bEi1mhLtpVC5aG/ZJlRS/r+SkK+rcgbZQwcKUb424=
 github.com/barasher/go-exiftool v1.8.0/go.mod h1:F9s/a3uHSM8YniVfwF+sbQUtP8Gmh9nyzigNF+8vsWo=
 github.com/coreos/go-systemd/v22 v22.3.3-0.20220203105225-a9a7ef127534/go.mod h1:Y58oyj3AT4RCenI/lSvhwexgC+NSVTIJ3seZv2GcEnc=

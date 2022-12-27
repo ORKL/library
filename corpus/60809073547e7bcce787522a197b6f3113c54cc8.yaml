@@ -1,6 +1,6 @@
 sha1_hash: 60809073547e7bcce787522a197b6f3113c54cc8
-title: "#StopRansomware: Hive Ransomware"
-authors: "CISA, FBI, HHS"
+title: '#StopRansomware: Hive Ransomware'
+authors: CISA, FBI, HHS
 pdf_creation_date: 2022-11-25T10:52:52Z
 pdf_modification_date: 2022-11-25T10:52:58Z
 publication_date: "2022-11-17"
@@ -10,4 +10,5 @@ file_size: 901086
 reference_urls:
   - https://www.cisa.gov/uscert/ncas/alerts/aa22-321a
   - https://www.cisa.gov/uscert/sites/default/files/publications/aa22-321a_joint_csa_stopransomware_hive.pdf
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/60809073547e7bcce787522a197b6f3113c54cc8.pdf

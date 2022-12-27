@@ -1,5 +1,5 @@
 sha1_hash: dd68d4dcb03e50702ffb675ddd58f6429df3ef51
-title: "Malicious Cyber Actors Continue to Exploit Log4Shell in VMware Horizon Systems"
+title: Malicious Cyber Actors Continue to Exploit Log4Shell in VMware Horizon Systems
 authors: CISA, CGCYBER"
 pdf_creation_date: 2022-07-18T15:28:22Z
 pdf_modification_date: 2022-07-18T15:28:22Z
@@ -10,4 +10,5 @@ file_size: 437182
 reference_urls:
   - https://www.cisa.gov/uscert/ncas/alerts/aa22-174a
   - https://www.cisa.gov/uscert/sites/default/files/publications/AA22-174A_Joint_CSA_Malicious_Cyber_Actors_Exploiting_Log4Shell_in_Unpatched_VMware_Horizon_Systems_FINAL.pdf
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/dd68d4dcb03e50702ffb675ddd58f6429df3ef51.pdf
