@@ -52,15 +52,23 @@ apt install -y libimage-exiftool-perl golang make
     ```
 
 3. Use either the `-report` or the `-recursive` command to add one or multiple
-    reports to the corpus.
+    reports to the corpus. This will copy the PDF(s) as `<HASH>.pdf` and create
+    the metadata files as `<HASH>.yaml` in the corpus directory.
 
-4. Check the .yaml files with `make validate` and also make sure the
+4. Work on the metadata files everything that cannot be parsed from the PDF
+    metadata needs to researched and added manually.
+
+5. Check and format the .yaml files by running `make` and also make sure the
     parsed title and other report metadata looks clean and you are happy with
-    the entries.
+    the entries (verify the publication date is correct - do some research).
 
-5. Commit to a patch branch and open a pull-request. If your metadata files and
+6. Commit to a patch branch and open a pull-request. If your metadata files and
     TLP level of the reports looks good your PR will be approved after
     verification.
+
+**Note:** please commit both the PDF(s) and the .yaml files. The github action will
+upload everything to the CDN. The PDF files will be removed eventually from the
+repo by running `olm -janitor`
 
 ## 🧹 Fix existing entry in ORKL library
 
