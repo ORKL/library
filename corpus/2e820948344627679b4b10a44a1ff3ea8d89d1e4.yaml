@@ -5,7 +5,7 @@ pdf_creation_date: 2021-01-13T10:23:15Z
 pdf_modification_date: 2021-01-13T10:23:20Z
 publication_date: "2021-01-13"
 file_names:
-- PwC-Business_Email_Compromise-Guide.pdf
+  - PwC-Business_Email_Compromise-Guide.pdf
 file_size: 1704946
-reference_urls: [https://github.com/PwC-IR/Business-Email-Compromise-Guide]
+  reference_urls: [https://github.com/PwC-IR/Business-Email-Compromise-Guide]
 language: EN
