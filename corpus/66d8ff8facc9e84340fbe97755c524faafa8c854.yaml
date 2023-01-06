@@ -1,0 +1,14 @@
+sha1_hash: 66d8ff8facc9e84340fbe97755c524faafa8c854
+title: "Threat Horizons - November 2021"
+authors: "Google's Cybersecurity Action Team (GCAT)"
+pdf_creation_date: 0001-01-01T00:00:00Z
+pdf_modification_date: 0001-01-01T00:00:00Z
+publication_date: "2021-11-24"
+file_names:
+  - gcat_threathorizons_full_nov2021.pdf
+file_size: 3088071
+reference_urls:
+  - https://services.google.com/fh/files/misc/gcat_threathorizons_full_nov2021.pdf
+  - https://cloud.google.com/blog/products/identity-security/coin-mining-ransomware-apts-target-cloud-gcat-report?hl=en
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/66d8ff8facc9e84340fbe97755c524faafa8c854.pdf
