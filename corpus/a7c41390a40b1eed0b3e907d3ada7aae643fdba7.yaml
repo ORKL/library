@@ -1,6 +1,6 @@
 sha1_hash: a7c41390a40b1eed0b3e907d3ada7aae643fdba7
-title: "Threat Horizons - February 2022"
-authors: "Google's Cybersecurity Action Team (GCAT)"
+title: Threat Horizons - February 2022
+authors: Google's Cybersecurity Action Team (GCAT)
 pdf_creation_date: 2022-03-16T15:05:07Z
 pdf_modification_date: 2022-03-16T15:05:07Z
 publication_date: "2022-03-16"
@@ -9,4 +9,5 @@ file_names:
 file_size: 1705883
 reference_urls:
   - https://services.google.com/fh/files/misc/gcat_threathorizons_full_feb2022.pdf
-language: "EN"
+language: EN
+cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/a7c41390a40b1eed0b3e907d3ada7aae643fdba7.pdf
