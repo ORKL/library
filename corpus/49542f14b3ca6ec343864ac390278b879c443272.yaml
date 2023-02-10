@@ -5,9 +5,9 @@ pdf_creation_date: 2019-03-26T02:05:14Z
 pdf_modification_date: 0001-01-01T00:00:00Z
 publication_date: "2019-03-26"
 file_names:
-- Operation ShadowHammer
+  - Operation ShadowHammer
 file_size: 177076
 reference_urls:
-- https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/raw/master/2019/2019.03.25.Operation_ShadowHammer/Operation%20ShadowHammer.pdf
+  - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/raw/master/2019/2019.03.25.Operation_ShadowHammer/Operation%20ShadowHammer.pdf
 language: EN
 cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/49542f14b3ca6ec343864ac390278b879c443272.pdf

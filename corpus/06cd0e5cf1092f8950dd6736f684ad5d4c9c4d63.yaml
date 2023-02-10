@@ -5,9 +5,9 @@ pdf_creation_date: 2019-02-12T07:36:23Z
 pdf_modification_date: 0001-01-01T00:00:00Z
 publication_date: "2019-02-12"
 file_names:
-- APT10 Targeted Norwegian MSP and US Companies in Sustained Campaign
+  - APT10 Targeted Norwegian MSP and US Companies in Sustained Campaign
 file_size: 2090983
 reference_urls:
-- https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/raw/master/2019/2019.02.06.APT10_Sustained_Campaign/APT10%20Targeted%20Norwegian%20MSP%20and%20US%20Companies%20in%20Sustained%20Campaign.pdf
+  - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections/raw/master/2019/2019.02.06.APT10_Sustained_Campaign/APT10%20Targeted%20Norwegian%20MSP%20and%20US%20Companies%20in%20Sustained%20Campaign.pdf
 language: EN
 cdn: https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/06cd0e5cf1092f8950dd6736f684ad5d4c9c4d63.pdf
