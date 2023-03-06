@@ -7,4 +7,4 @@ require (
 	github.com/gabriel-vasile/mimetype v1.4.1
 )
 
-require golang.org/x/net v0.6.0 // indirect
+require golang.org/x/net v0.8.0 // indirect
