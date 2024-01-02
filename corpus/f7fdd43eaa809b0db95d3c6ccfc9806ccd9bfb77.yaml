@@ -1,13 +1,11 @@
 sha1_hash: f7fdd43eaa809b0db95d3c6ccfc9806ccd9bfb77
-title: Iranian Government-Sponsored APT Actors Compromise Federal Network, Deploy
-  Crypto Miner, Credential Harvester
+title: Iranian Government-Sponsored APT Actors Compromise Federal Network, Deploy Crypto Miner, Credential Harvester
 authors: CISA, FBI
 pdf_creation_date: 2022-11-25T10:56:17Z
 pdf_modification_date: 2022-11-25T11:07:00Z
 publication_date: "2022-03-17"
 file_names:
-  - aa22-320a_joint_csa_iranian_government-sponsored_apt_actors_compromise_federal
-    network_deploy_crypto miner_credential_harvester.pdf
+  - aa22-320a_joint_csa_iranian_government-sponsored_apt_actors_compromise_federal network_deploy_crypto miner_credential_harvester.pdf
 file_size: 555642
 reference_urls:
   - https://www.cisa.gov/uscert/ncas/alerts/aa22-320a
